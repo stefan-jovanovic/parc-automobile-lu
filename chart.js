@@ -30,7 +30,7 @@ fetch('CARBURANT.json')
         const data = {
             labels: fuelTypes,
             datasets: [{
-                label: 'Nombre de voitures Mai 2024',
+                label: 'Nombre d'automobiles 05/2024',
                 data: fuelNumbers,
                 backgroundColor: 'rgba(255, 255, 255, 0.5)', // Changed to white for contrast
                 borderColor: 'rgba(255, 255, 255, 1)', // Changed to white for contrast
